@@ -55,6 +55,7 @@ function tfAuslesen () {
     }
 }
 
+// Notenpunkte auf Gültigkeit prüfen
 function punktePruefen(punkte) {
     if(isNaN(punkte))
     {
